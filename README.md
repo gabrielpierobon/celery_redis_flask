@@ -16,6 +16,9 @@ https://github.com/ro6ley/flask-celery-demo
 #### crear environment con `conda create --name my_env`
 #### requirements con `pip install -r requirements.txt`
 
+Para instalar **Redis** en **Windows**:  
+`https://github.com/microsoftarchive/redis/releases`
+
 **Warning_1:**
 Habilitar la cuenta de gmail para que puedan acceder aplicaciones terceras
 
