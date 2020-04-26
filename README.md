@@ -36,7 +36,7 @@ index.html original tambien tenia un error. Cambiado por:
 
 ### Para ejecutar la app:
 
-1. en el env, ejecutar la app `python app.py`
-2. en el env, ejecutary celery `celery -A app.client worker --pool=solo -l info`
+1. **Flask** service: en el env, ejecutar la app `python app.py`
+2. **Celery** service: en el env, ejecutary celery `celery -A app.client worker --pool=solo -l info`
 En el ejemplo usa `celery worker -A app.client --loglevel=info` pero en Windows no está funcionando bien eso
-3. en el env, ejecutar flower para monitorear las tareas `flower -A app.client --port=5555`
+3. **Flower** service: en el env, ejecutar flower para monitorear las tareas `flower -A app.client --port=5555`
