@@ -17,7 +17,8 @@ https://github.com/ro6ley/flask-celery-demo
 #### requirements con `pip install -r requirements.txt`
 
 Para instalar **Redis** en **Windows**:  
-`https://github.com/microsoftarchive/redis/releases`
+`https://github.com/microsoftarchive/redis/releases`  
+Descargar última versión estable, por ejemplo `Redis-x64-3.0.504.msi` (a 26/4/2020)
 
 **Warning_1:**
 Habilitar la cuenta de gmail para que puedan acceder aplicaciones terceras
