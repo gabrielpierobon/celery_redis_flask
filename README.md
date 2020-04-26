@@ -2,6 +2,8 @@
 
 Esta es una webapp para demostrar las capacidades de desarrollar tareas asíncronas con **Celery** como gestor de tareas, **Redis** como *message broker* y **flower** como interfase para monitorear las tareas.
 
+*La app permite programar el envío de emails a diferentes cuentas*
+
 El código se desarrlla en lenguaje **Python**, utilizando el framework **Flask**
 
 No se encuentra *dockerizado*
