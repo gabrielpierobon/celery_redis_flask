@@ -1,6 +1,6 @@
 # celery_redis_flask
 
-La idea viene de aca: 
+La idea viene de aca:  
 https://stackabuse.com/asynchronous-tasks-using-flask-redis-and-celery/  
 https://github.com/ro6ley/flask-celery-demo
 
