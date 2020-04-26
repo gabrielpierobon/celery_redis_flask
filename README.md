@@ -1,5 +1,12 @@
 # celery_redis_flask
 
+Esta es una webapp para demostrar las capacidades de desarrollar tareas asíncronas con **Celery** como gestor de tareas, **Redis** como *message broker* y **flower** como interfase para monitorear las tareas.
+
+El código se desarrlla en lenguaje **Python**, utilizando el framework **Flask**
+
+No se encuentra *dockerizado*
+
+
 La idea viene de aca:  
 https://stackabuse.com/asynchronous-tasks-using-flask-redis-and-celery/  
 https://github.com/ro6ley/flask-celery-demo
